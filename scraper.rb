@@ -35,11 +35,11 @@ def reprocess_csv(file)
     party, party_id = row[4].match(/(.*?) \((.*?)\)/).captures
 
     data = {
-      name:         '%s %s' % [row[1].to_s.tidy, row[0].to_s.tidy],
-      sort_name:    '%s %s' % [row[0].to_s.tidy, row[1].to_s.tidy],
-      given_name:   row[1].to_s.tidy,
-      family_name:  row[0].to_s.tidy,
-      name__ar:     '%s %s' % [row[3].to_s, row[2].to_s],
+      name:         '%s %s' % [row[1], row[0]],
+      sort_name:    '%s %s' % [row[0], row[1]],
+      given_name:   row[1],
+      family_name:  row[0],
+      name__ar:     '%s %s' % [row[3], row[2]],
       party:        party,
       party_id:     party_id,
       party__ar:    row[5],
