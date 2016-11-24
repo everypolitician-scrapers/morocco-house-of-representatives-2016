@@ -49,11 +49,10 @@ def reprocess_csv(file)
       end_date:     date_from(row[15]),
     }
 
-    warn "*** #{row[6]} => #{row[7]} not #{arabic[row[6]]} " if arabic[row[6]] && arabic[row[6]] != row[7]
-    arabic[row[6]] = row[7]
-
-    warn "*** #{row[8]} => #{row[9]} not #{arabic[row[8]]}" if arabic[row[8]] && arabic[row[8]] != row[9]
-    arabic[row[8]] = row[9]
+    # warn "*** #{row[6]} => #{row[7]} not #{arabic[row[6]]} " if arabic[row[6]] && arabic[row[6]] != row[7]
+    # arabic[row[6]] = row[7]
+    # warn "*** #{row[8]} => #{row[9]} not #{arabic[row[8]]}" if arabic[row[8]] && arabic[row[8]] != row[9]
+    # arabic[row[8]] = row[9]
 
     if data[:constituency] == 'Jeunes'
       data[:constituency] = 'National'
