@@ -50,10 +50,8 @@ def reprocess_csv(file)
       end_date:     date_from(row[16]),
     }
 
-    # warn "*** #{row[6]} => #{row[7]} not #{arabic[row[6]]} " if arabic[row[6]] && arabic[row[6]] != row[7]
-    # arabic[row[6]] = row[7]
-    # warn "*** #{row[8]} => #{row[9]} not #{arabic[row[8]]}" if arabic[row[8]] && arabic[row[8]] != row[9]
-    # arabic[row[8]] = row[9]
+    (arabic[row[7]] ||= Set.new) << row[8]
+    (arabic[row[9]] ||= Set.new) << row[10]
 
     if data[:constituency] == 'Jeunes'
       data[:constituency] = 'National'
@@ -68,6 +66,8 @@ def reprocess_csv(file)
 
     ScraperWiki.save_sqlite(%i(id start_date), data)
   end
+
+  pp arabic.select { |k, v| v.size > 1 }
 end
 
 reprocess_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-/pub?output=csv')
