@@ -32,21 +32,22 @@ def reprocess_csv(file)
     next if row[0].to_s.empty?
     row = row.map(&:to_s).map(&:tidy)
 
-    party, party_id = row[4].match(/(.*?) \((.*?)\)/).captures
+    party, party_id = row[5].match(/(.*?) \((.*?)\)/).captures
 
     data = {
-      name:         '%s %s' % [row[1], row[0]],
-      sort_name:    '%s %s' % [row[0], row[1]],
-      given_name:   row[1],
-      family_name:  row[0],
-      name__ar:     '%s %s' % [row[3], row[2]],
+      id:           row[0],
+      name:         '%s %s' % [row[2], row[1]],
+      sort_name:    '%s %s' % [row[1], row[2]],
+      given_name:   row[2],
+      family_name:  row[1],
+      name__ar:     '%s %s' % [row[4], row[3]],
       party:        party,
       party_id:     party_id,
-      party__ar:    row[5],
-      constituency: row[6],
-      province:     row[8],
-      start_date:   date_from(row[14]),
-      end_date:     date_from(row[15]),
+      party__ar:    row[6],
+      constituency: row[7],
+      province:     row[9],
+      start_date:   date_from(row[15]),
+      end_date:     date_from(row[16]),
     }
 
     # warn "*** #{row[6]} => #{row[7]} not #{arabic[row[6]]} " if arabic[row[6]] && arabic[row[6]] != row[7]
@@ -65,9 +66,7 @@ def reprocess_csv(file)
       data[:gender] = 'female'
     end
 
-    # TODO: we need a better ID surrogate,
-    # as there are multiple people with the same name
-    ScraperWiki.save_sqlite(%i(name constituency), data)
+    ScraperWiki.save_sqlite(%i(id start_date), data)
   end
 end
 
