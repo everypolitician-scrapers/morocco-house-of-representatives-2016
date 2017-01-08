@@ -1,0 +1,58 @@
+---
+request:
+  method: get
+  uri: https://docs.google.com/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-/pub?output=csv
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - "*/*"
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Content-Type:
+    - text/csv
+    X-Robots-Tag:
+    - noindex, nofollow, nosnippet
+    Expires:
+    - Sun, 08 Jan 2017 08:45:01 GMT
+    Date:
+    - Sun, 08 Jan 2017 08:45:01 GMT
+    Cache-Control:
+    - private, max-age=300
+    Content-Disposition:
+    - attachment; filename="2016_2021Listedesdputes-Dputes2016_2021.csv"; filename*=UTF-8''%20%D9%84%D8%A7%D8%A6%D8%AD%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8%D8%A7%D8%AA%20%D9%88%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%202016_2021%20Liste%20des%20d%C3%A9put%C3%A9%28e%29s%20-%20D%C3%A9put%C3%A9%28e%29s%202016_2021.csv
+    P3p:
+    - CP="This is not a P3P policy! See https://support.google.com/accounts/answer/151657?hl=en
+      for more info."
+    - CP="This is not a P3P policy! See https://support.google.com/accounts/answer/151657?hl=en
+      for more info."
+    X-Content-Type-Options:
+    - nosniff
+    X-Xss-Protection:
+    - 1; mode=block
+    Server:
+    - GSE
+    Set-Cookie:
+    - NID=94=AwsA0PQTdAb-ztJ7_SnI90jhk3e-IWklK_UyNcBKcvh6Zb_lQ9Npb0vsxcNKaSKX93enb8r6a6lLMpwmoDyJE0Y4AWc_g-ak16DAVw3TacL_J32vlYjoe0BN1yF3oJbr;Domain=.google.com;Path=/;Expires=Mon,
+      10-Jul-2017 08:45:01 GMT;HttpOnly
+    - NID=94=nHjKLmucqBtIpiLmYix2AHGU8K64ICGqCHIbajoq9D-SjNyA3TItpiO-tDzuiGuSsrZUlQiAb3akFAu9JRinWEyuGogQbvExBIZLpMCIdemWQYBesjnKHCLYhjYQb3w0;Domain=.google.com;Path=/;Expires=Mon,
+      10-Jul-2017 08:45:01 GMT;HttpOnly
+    - S=apps-spreadsheets=5yB102ChQPx2DgIwDLLV5yyIA8WdwlMW; Domain=.docs.google.com;
+      Expires=Sun, 08-Jan-2017 09:45:01 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+      Secure; HttpOnly
+    Alt-Svc:
+    - quic=":443"; ma=2592000; v="35,34"
+    Transfer-Encoding:
+    - chunked
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Sun, 08 Jan 2017 08:45:02 GMT
