@@ -3,18 +3,12 @@
 # frozen_string_literal: true
 
 require 'csv'
-require 'open-uri'
 require 'pry'
+require 'scraped'
 require 'scraperwiki'
 
 require 'open-uri/cached'
 OpenURI::Cache.cache_path = '.cache'
-
-class String
-  def tidy
-    gsub(/[[:space:]]+/, ' ').strip
-  end
-end
 
 def date_from(str)
   return if str.to_s.empty?
