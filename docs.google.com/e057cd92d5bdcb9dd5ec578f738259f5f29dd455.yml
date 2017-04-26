@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Tue, 25 Apr 2017 04:11:29 GMT
+    - Wed, 26 Apr 2017 03:08:39 GMT
     Date:
-    - Tue, 25 Apr 2017 04:11:29 GMT
+    - Wed, 26 Apr 2017 03:08:39 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -41,18 +41,18 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=102=o2FC5DvyqvFNiWwllFl0eHmjf4af0kbiOeDRkYqY_evs2WOf_dWS2guqbmWCUrSkZmwJAm26k_d5MW_3YKmMz1CJvRMq6bjoMwbmdnjFk8-5ZzPQj9A9FiMJ-vwefJgC;Domain=.google.com;Path=/;Expires=Wed,
-      25-Oct-2017 04:11:29 GMT;HttpOnly
-    - NID=102=s5gzkViaXTPYM2XUcm4B-awz3r1mP-wjgIkFZDWAPWzunqFUdMKv3Prebjytjt2EkNezoWeOEcsbpnJ7swXS5399Bnf4kpoVM1E8xSoL5myqpIJ9QlY_C3y6ClURXab0;Domain=.google.com;Path=/;Expires=Wed,
-      25-Oct-2017 04:11:29 GMT;HttpOnly
-    - S=apps-spreadsheets=JQUt7lQ5hrsDWraKP9Q5JhxOUOmJIzQa; Domain=.docs.google.com;
-      Expires=Tue, 25-Apr-2017 05:11:29 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=102=Xp26ZrH4fqodJRzmxMU9gDFfmgqKxkExZBuDJRj2hW1jnqje8t30ds59Q-c4JRH1C0TRHxOpNJxVnQeNgBrIRszZArHj9NX0LllHosetWPu-HPP8DtFiIFG6ub8JFMrX;Domain=.google.com;Path=/;Expires=Thu,
+      26-Oct-2017 03:08:39 GMT;HttpOnly
+    - NID=102=uHOh9GENouvCeQzMMPLHuhPnUrPsjRvwobHcOQ0hDAVXJnyG_4ohKHoWHU6Gl8jIHn4kwFsyRiRe3MN63OH0CTsYku1HHK34D8nxNqjCcrkMhTOp4-VnY_aSX9XsBMRP;Domain=.google.com;Path=/;Expires=Thu,
+      26-Oct-2017 03:08:39 GMT;HttpOnly
+    - S=apps-spreadsheets=AovHS-weeo9J9OcjV_W2tn0JsFszQId0; Domain=.docs.google.com;
+      Expires=Wed, 26-Apr-2017 04:08:39 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly
     Alt-Svc:
-    - quic=":443"; ma=2592000; v="37,36,35"
+    - quic=":443"; ma=2592000; v="38,37,36,35"
     Transfer-Encoding:
     - chunked
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 25 Apr 2017 04:11:30 GMT
+recorded_at: Wed, 26 Apr 2017 03:08:39 GMT
