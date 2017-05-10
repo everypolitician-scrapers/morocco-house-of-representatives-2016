@@ -59,10 +59,10 @@ def reprocess_csv(file)
       data[:gender] = 'female'
     end
 
-    ScraperWiki.save_sqlite(%i(id start_date), data)
+    ScraperWiki.save_sqlite(%i[id start_date], data)
   end
 
-  pp arabic.select { |k, v| v.size > 1 }
+  pp arabic.select { |_k, v| v.size > 1 }
 end
 
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
