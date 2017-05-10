@@ -65,5 +65,5 @@ def reprocess_csv(file)
   pp arabic.select { |_k, v| v.size > 1 }
 end
 
-ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
+ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil
 reprocess_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-/pub?output=csv')
