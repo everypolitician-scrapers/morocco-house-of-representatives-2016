@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Sat, 15 Jul 2017 15:37:16 GMT
+    - Sun, 16 Jul 2017 14:27:59 GMT
     Date:
-    - Sat, 15 Jul 2017 15:37:16 GMT
+    - Sun, 16 Jul 2017 14:27:59 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -41,12 +41,12 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=107=ManFnmu0g1f5kDKxUHTLMCYlYyP-igW-7AcfEy4FNcWu4rF-dozxTxd9suQKbUw-4FoCMxDjciuFowjDAsPcnPfUigqJYKIJ8FtoxBCubg6Ax2iZ4nlz0jVtYQYR_OGv;Domain=.google.com;Path=/;Expires=Sun,
-      14-Jan-2018 15:37:16 GMT;HttpOnly
-    - NID=107=x7_QkCRusAFYKQ1K0vSDJqUus71kXJ2HBIdLv2cmUhStzeA_8m95CjEzaFiCjByU-gfeFxiw_-6h3yGdX1zma_P5f_HaBOiyrcjCigHKM1H7ZJLioJBtMJs9QR0MnUzq;Domain=.google.com;Path=/;Expires=Sun,
-      14-Jan-2018 15:37:16 GMT;HttpOnly
-    - S=apps-spreadsheets=ncB4CLH1VTywJZx61PyADqMXs1qpHXNJ; Domain=.docs.google.com;
-      Expires=Sat, 15-Jul-2017 16:37:16 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=107=RKJF-4dHk7vHeeFB8Ud0D49KrxZC_ezOyifAEsHVZ-I7mCgN3Ac0DnJW7XdjKqubjSD0E_m8TfZo6nkm8MpmMENa87FTsJvKf0TIynptlQLA48PFJ2G_ehvcbwIrxfjr;Domain=.google.com;Path=/;Expires=Mon,
+      15-Jan-2018 14:27:59 GMT;HttpOnly
+    - NID=107=pEx7b0uAXx8dUo5m0rvMfU8nPiDkd9h53GpIgbEY8HyAsvN47cViFVBYrwMg7QH-tdXWg7XmgrGoaVE2-oKHlfULkIljmh1JUvX9YTbQRfZeMtuu80EUl9fGsix1JFh5;Domain=.google.com;Path=/;Expires=Mon,
+      15-Jan-2018 14:27:59 GMT;HttpOnly
+    - S=apps-spreadsheets=FOaLWSUjwklGNZNNKU4RmDC6viLM4LWz; Domain=.docs.google.com;
+      Expires=Sun, 16-Jul-2017 15:27:59 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly
     Alt-Svc:
     - quic=":443"; ma=2592000; v="39,38,37,36,35"
@@ -55,4 +55,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 15 Jul 2017 15:37:16 GMT
+recorded_at: Sun, 16 Jul 2017 14:27:59 GMT
