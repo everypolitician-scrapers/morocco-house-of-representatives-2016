@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Wed, 20 Sep 2017 13:31:32 GMT
+    - Thu, 21 Sep 2017 10:37:42 GMT
     Date:
-    - Wed, 20 Sep 2017 13:31:32 GMT
+    - Thu, 21 Sep 2017 10:37:42 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -41,18 +41,18 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=112=2Ir6Zw0wmSNgkUP9niYnkM05-Uy-WebIqwidftb7ZENyq38FbQn9gjQPRGl0OtCfisuU4KRzgz6v7v2-DE0tMdU4y5YUfzY6hIWW15Y18ns-rkl4IGEd593u_9B62CoV;Domain=.google.com;Path=/;Expires=Thu,
-      22-Mar-2018 13:31:32 GMT;HttpOnly
-    - NID=112=O_th-JXyzxIyMPBd4piqEUoPHOXHXc88zyMXirLXpTGHRB1Mq1gVDKDbUuNW39NzmSPJjuSOtS6fA9fwuEt313xNMemm3joUxM1kQe6O6rvvERXV9bdaRKISniKlpBdV;Domain=.google.com;Path=/;Expires=Thu,
-      22-Mar-2018 13:31:32 GMT;HttpOnly
-    - S=apps-spreadsheets=9MT5uqX_ao7pPRRM0jWSLltcl3J5sFXf; Domain=.docs.google.com;
-      Expires=Wed, 20-Sep-2017 14:31:32 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=112=SywVmT_Socxbw8KMn-s50DuvXIq1yAJt-eIW8NxJLEc8AVM6hyrj9GnuzQcz1rhc1vtij--6KKFeeHntOy-bhQ2oEDLj5w-10LpUP-n7UlUGYD8fPl35qanXVf5NIzIx;Domain=.google.com;Path=/;Expires=Fri,
+      23-Mar-2018 10:37:42 GMT;HttpOnly
+    - NID=112=bJPRaelXbz0c_T1kRX4XoMc9u5Xc8przZC3fuyPkfALIzmQtjPnKgb91Onu3289ky2TM9sdbAlw5saXeSTUUUP1ouoJ0JxCyiiyE6WqqslzoB7Rf9ixo05IrQLoKMJwW;Domain=.google.com;Path=/;Expires=Fri,
+      23-Mar-2018 10:37:42 GMT;HttpOnly
+    - S=apps-spreadsheets=m62Yf0wz_kkyBbve7p8cJaEIC9EUtghi; Domain=.docs.google.com;
+      Expires=Thu, 21-Sep-2017 11:37:42 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly
     Alt-Svc:
-    - quic=":443"; ma=2592000; v="40,39,38,37,35"
+    - quic=":443"; ma=2592000; v="39,38,37,35"
     Transfer-Encoding:
     - chunked
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 20 Sep 2017 13:31:32 GMT
+recorded_at: Thu, 21 Sep 2017 10:37:42 GMT
