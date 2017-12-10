@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Fri, 08 Dec 2017 23:20:54 GMT
+    - Sun, 10 Dec 2017 10:24:41 GMT
     Date:
-    - Fri, 08 Dec 2017 23:20:54 GMT
+    - Sun, 10 Dec 2017 10:24:41 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -39,12 +39,12 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=119=cA2NX13ptXbS9tJGWut_14Y76EHJ07f2Q3lYJCkfS6MUrtYiVfNl-FB258djfYsfy4WiiMB6fnJIE6redXY0cYlhgdt0pbVV3pATSvlJ3pMadWgOS8AXAH82FXfulk1o;Domain=.google.com;Path=/;Expires=Sat,
-      09-Jun-2018 23:20:54 GMT;HttpOnly
-    - NID=119=mxfO60IQtb4hphjWeVjj3dC1p8j7zHvFzU8PQhvNMZ3V-08YIiKKiwkgMyStVmTdqjXAt0hPgCGG87UxvEFY21yGs4iRJB1TekVi_xYo8vM9dyKx4Z-iCa4E24jWMjft;Domain=.google.com;Path=/;Expires=Sat,
-      09-Jun-2018 23:20:54 GMT;HttpOnly
-    - S=apps-spreadsheets=o9aYWbtobPkYOMci7RPE6L4--8H9gvx2; Domain=.docs.google.com;
-      Expires=Sat, 09-Dec-2017 00:20:54 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=119=BpO_wPa3dWXp9HY7gXz_s_11AtjjzGl4MD-kMoylyMvrmExRbh6_0OnkPAQ_4Pbr0s5yKnPbuIigba-7Ei95cVbMmQWONotlclNBgYrj5Uj5ncLGnO6r0sKJ3G5ClcCY;Domain=.google.com;Path=/;Expires=Mon,
+      11-Jun-2018 10:24:41 GMT;HttpOnly
+    - NID=119=o0RZkVGUZHs-9sOZgvsOPeUBFnxtO6MMwJ_7-GU0R17-4Vi5svFGIs02VxvQAGG5eb7XhaCiB99gG2F3duZ6p3yP7KliOiWkxeZThQ8fmr3kI5CWA4Ec9EfzdIKqXsiY;Domain=.google.com;Path=/;Expires=Mon,
+      11-Jun-2018 10:24:41 GMT;HttpOnly
+    - S=apps-spreadsheets=g7YEmzjkufjvoGDAExb4JMAZTrXF9qc7; Domain=.docs.google.com;
+      Expires=Sun, 10-Dec-2017 11:24:41 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly
     Alt-Svc:
     - hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337;
@@ -54,4 +54,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 08 Dec 2017 23:20:54 GMT
+recorded_at: Sun, 10 Dec 2017 10:24:42 GMT
