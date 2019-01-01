@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Mon, 31 Dec 2018 07:28:01 GMT
+    - Tue, 01 Jan 2019 00:52:40 GMT
     Date:
-    - Mon, 31 Dec 2018 07:28:01 GMT
+    - Tue, 01 Jan 2019 00:52:40 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -39,16 +39,16 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=152=D5fHb7eZBoL3Q4il1Q-EY1SsXOCOkx5jxNKb8NsxInfV-Xt3osRudLQAaVm44DPOUSDWRp7GEaujUSMYXIEkZkxSVNhJGZyMZlqtNJxW3u1DwrZU_URdehEGOYs5iZJ29x4q4VwvW5meOXqIwNxeou3MCjAINgwi2FvHmZFDpoA;Domain=.google.com;Path=/;Expires=Tue,
-      02-Jul-2019 07:28:01 GMT;HttpOnly
-    - NID=152=gebx9PyiTK0Ga3NwYCbJQdCTzQSFBdBCDzWqp8jZHNW23xUGKFMK5x8CG_zYBCrPaubUNlWGEkM-0l18rlY4yEa1VFR0tzLAeEDeaARjb2LblWd2EKhMCXeqfEFx5DRy8Buo8MRoZ0Qkwfi7ZBQmhBxiyNEH74uEkFxXGv1O7ew;Domain=.google.com;Path=/;Expires=Tue,
-      02-Jul-2019 07:28:01 GMT;HttpOnly
-    - S=apps-spreadsheets=96XIusjVw6agxZvBDlw_tbnODX-sESSY; Domain=.docs.google.com;
-      Expires=Mon, 31-Dec-2018 08:28:01 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=152=N0kBPir6DDU_psLDhI733itoLx-dtCYsoxpyx99M5tNVh5uymbOR3VpzmMr6u_O04QsLPv11e65t_TyXzbTDj2GlGb_XZjmkyJHvVqjuhrD51jPz3u9KOgiOhR0q3sLDb1GI7nArqjo-B6AnsX9U_cGuAIWDHwwQJjHBeXoWidw;Domain=.google.com;Path=/;Expires=Wed,
+      03-Jul-2019 00:52:40 GMT;HttpOnly
+    - NID=152=yQW-Igga6gRWUZa4OxrZ7caN53YD9G_VNIzxGe0awbZA3P5W5oDeTPSdjxdmzywI8UwZZzql7Bn-lW7l4JW5Ws7BuKbWYdPQ37IxGdjBoxlmqZxQOdORDkGVNHlMjoSByk-VUPB9--OTp24nzIvzi59gEuqHaU84OqFXzNzaEPU;Domain=.google.com;Path=/;Expires=Wed,
+      03-Jul-2019 00:52:40 GMT;HttpOnly
+    - S=apps-spreadsheets=DzpgrSsY0Zj8EHNCKG8ctgnSa9dAWVmH; Domain=.docs.google.com;
+      Expires=Tue, 01-Jan-2019 01:52:40 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly
     Content-Length:
     - '13469'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 31 Dec 2018 07:28:01 GMT
+recorded_at: Tue, 01 Jan 2019 00:52:40 GMT
