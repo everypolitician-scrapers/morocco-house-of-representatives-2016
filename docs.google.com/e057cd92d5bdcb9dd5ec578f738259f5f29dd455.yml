@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Tue, 19 Feb 2019 20:17:04 GMT
+    - Wed, 20 Feb 2019 14:09:27 GMT
     Date:
-    - Tue, 19 Feb 2019 20:17:04 GMT
+    - Wed, 20 Feb 2019 14:09:27 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -39,13 +39,16 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=160=NQyTQMXit0KgLPGAW4ASQj29PZjmr7ANOxEgti1gYqhvrp6d5VPnPZuW161GznVEM4UtUQuXXtjiClRRRy8x1qewhMEOZVL7b5bOZnT_Ows4FXJs89fjiUJwV5CfJY-_drNxioQUYVUQI5r1veLqMX_A3L0yKcMB6MNZwjEI7WA;Domain=.google.com;Path=/;Expires=Wed,
-      21-Aug-2019 20:17:04 GMT;HttpOnly
-    - NID=160=lCc7k72tYMwWzbb8isIpqPpp5ijEMG8sqIdjzjpa4nn8eEkoI_Jn5sDU7zIE9HOmnMiAxIXE-Z2E_WVC0leVvACYOBwLzlixF313IrC5FEd2BTzE4K9Iazao5n9hWy4jhPBF0Tb4jezwXAQzuzU1g0xp262wB3E8lGQasqfcl58;Domain=.google.com;Path=/;Expires=Wed,
-      21-Aug-2019 20:17:04 GMT;HttpOnly
+    - NID=160=Lyq9YJTVFZf3HNj5h7o7bIlrdqxLsoSxbjvYr1oAptK42ULYt9OFgxG2iVTjiBHRYbOn_o_wWm3cogU9cnUBIkFIz1awQJfISXQQGP38ppuuoxTHbn1LtmW9KS-rbkxmylP3Y6iyjOI_tX6J6nR87IJqwbPUx-Ded-4A84j2SOc;Domain=.google.com;Path=/;Expires=Thu,
+      22-Aug-2019 14:09:27 GMT;HttpOnly
+    - NID=160=g9w1c8qjMUm04vKZWZGDKDnb6QYxFK5aVJdpaknG99PIWX54Daxoy-mhVq6_hT7BULY1KIXeGV0_g1EBWawVPmSq-ta3yWe3le5NugQBdiyCfb62umgpP2NSOO0PzKracCfebcfo6CDgazRfennWcyKKmswkbhYJLIqJEJurmqE;Domain=.google.com;Path=/;Expires=Thu,
+      22-Aug-2019 14:09:27 GMT;HttpOnly
+    - S=apps-spreadsheets=-eTx0kPfrD1khIRThDpGiUU2j8zttAWO; Domain=.docs.google.com;
+      Expires=Wed, 20-Feb-2019 15:09:27 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+      Secure; HttpOnly
     Content-Length:
     - '13469'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 19 Feb 2019 20:17:04 GMT
+recorded_at: Wed, 20 Feb 2019 14:09:27 GMT
