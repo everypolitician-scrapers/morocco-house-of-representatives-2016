@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Sun, 20 Oct 2019 01:25:16 GMT
+    - Mon, 21 Oct 2019 02:35:05 GMT
     Date:
-    - Sun, 20 Oct 2019 01:25:16 GMT
+    - Mon, 21 Oct 2019 02:35:05 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -39,13 +39,10 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=189=OAH9Yt6CJsvFYbLPYtMtFu0y4GQ03YDu8N2Dtvp46WMDM45wLhKyOy4YLWEyus6IAkbPXH-UxsKouvtTuJ6GtECbOuLBlt0td6d_yiRvtH3BslLZcE-3WPuYtxqQvC0bnS8Y1kVaou2DG90b0At57Gq8CWvleXUukKrYwkQcOJI;
-      expires=Mon, 20-Apr-2020 01:25:16 GMT; path=/; domain=.google.com; HttpOnly
-    - NID=189=oHKZcDXJ4VWbIuMreHeY7_KwgAarGa3BWKCnWwJjLaic3BlZUW0gff-jZMPtMZiM73JwDS-0opsM5GqaR_iIBijtsN9iqqx8b3NO-Bxyze3446JZL1iM3Tx6u5kpAGp2F2SrvaB0nrevG_NnuavaJY8ESMbRkp1n6RMh0C3fNN8;
-      expires=Mon, 20-Apr-2020 01:25:16 GMT; path=/; domain=.google.com; HttpOnly
-    - S=apps-spreadsheets=8uz-UBU1lAukzXJtJ9VYM74_uwBsCPw9; Domain=.docs.google.com;
-      Expires=Sun, 20-Oct-2019 02:25:16 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
-      Secure; HttpOnly
+    - NID=189=FFxo4L9JTHY8Ipuyp8SvV_LDqWm3BXW50mvXn_aXXzez52hZBmKazmjQjGEPoM3ocIoeEMXOi1J-hKyCeCYJ0cnw8Yc2yggrDpuxEf9qnjhfe5Cj4PfE2Vj9gtTYmAylG69vG7ubpeuzTFBvKDlgCBzUJ0WwEPhFU-tU86McvpE;
+      expires=Tue, 21-Apr-2020 02:35:04 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=189=knezPwrBSK4rrvZnkjnM1JGQZbTyZZFrj9c9nB6b3NoUK2hbh2emDBtGwGKCF18TG1DSJsNYa6WvEwkw-GvM9cNF86DxC81g-iyzgg9wwKQQ4j1W4YPNYevdK0te8jmLqVSJhI2P6NxkVaoVBvmdDM39Gf1QEXn2EKjMKo5m74g;
+      expires=Tue, 21-Apr-2020 02:35:04 GMT; path=/; domain=.google.com; HttpOnly
     Alt-Svc:
     - quic=":443"; ma=2592000; v="46,43",h3-Q049=":443"; ma=2592000,h3-Q048=":443";
       ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
@@ -54,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 20 Oct 2019 01:25:16 GMT
+recorded_at: Mon, 21 Oct 2019 02:35:05 GMT
