@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Thu, 26 Dec 2019 18:08:42 GMT
+    - Fri, 27 Dec 2019 05:27:48 GMT
     Date:
-    - Thu, 26 Dec 2019 18:08:42 GMT
+    - Fri, 27 Dec 2019 05:27:48 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -39,20 +39,19 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=194=dETVhU314ES8pd06uI8MDdZHLIBdpYGmrH2ZIGixQRFbjOa57SE-YhPcTsb61ILBxB8NgBtCbfoEOqAobjBph4XUU-dohisDeIGhUF9iGAp0s-TcIMdCqB4-fqbW13VU2siekD9EHKLR0oyT0kVC_bAf4iRnu0a3AjUfJ8GuWBo;
-      expires=Fri, 26-Jun-2020 18:08:41 GMT; path=/; domain=.google.com; HttpOnly
-    - NID=194=fPecNQYeyAt8Nmb81a8Ka_WGfbEtF9jc8dKn0yZoFD54MFIImQEaoJE0ngAoCntstzI1k1t4xAVJGtdPCtLYgsKMw_Ccvx-UrkWnb0DeH_F6Q0hDKw-SRHXW5wmz4NSKj0OjPdcZU7OVAxtNMzTw48-4AtYo906buQdyZMuxYas;
-      expires=Fri, 26-Jun-2020 18:08:41 GMT; path=/; domain=.google.com; HttpOnly
-    - S=apps-spreadsheets=wGwXjpB2Gkf8GGJC18eG0RWqSUwhR3Lv; Domain=.docs.google.com;
-      Expires=Thu, 26-Dec-2019 19:08:42 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=194=WiMTIxKENkWujb4DLZLF3cJCpyyJn1MKR_7k9ZyLMg0AYLknugPDYdbyzUQq_uxq0EAiJL45gWww6DCYA70X8y6EtDAreQPtin3lN5e_XG03pGZGRKY-xPbYcFKe2GjJZx4JgmesJ51cQgng7WxIH_QhHnn1gYbWgche-ifzltg;
+      expires=Sat, 27-Jun-2020 05:27:47 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=194=bnn11tFLaFNHNPqOOtT2i_Tv2TYl5QdIYoyLHsp8vEI3OjkcK8n94uoIbE_Ic1hUwdrA0dVpAWi84pkgO08HXPhdVyp4Q8PbM7WRKDDGivhq4UgU6kg5cvt55isKU-W6VmOsyO8JKbbKE8wuxovoov1lEiNCGeiEUxXukq1mCts;
+      expires=Sat, 27-Jun-2020 05:27:47 GMT; path=/; domain=.google.com; HttpOnly
+    - S=apps-spreadsheets=2WHOdRbWCGOEjtGhC1TlPLhvei9_H_AE; Domain=.docs.google.com;
+      Expires=Fri, 27-Dec-2019 06:27:48 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly; SameSite=none
     Alt-Svc:
-    - quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443";
-      ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443";
-      ma=2592000
+    - quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q048=":443";
+      ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000
     Transfer-Encoding:
     - chunked
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 26 Dec 2019 18:08:42 GMT
+recorded_at: Fri, 27 Dec 2019 05:27:48 GMT
