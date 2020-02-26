@@ -22,15 +22,14 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Tue, 25 Feb 2020 17:07:36 GMT
+    - Wed, 26 Feb 2020 07:03:26 GMT
     Date:
-    - Tue, 25 Feb 2020 17:07:36 GMT
+    - Wed, 26 Feb 2020 07:03:26 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
     - attachment; filename="2016_2021Listedesdputes-Dputes2016_2021.csv"; filename*=UTF-8''%20%D9%84%D8%A7%D8%A6%D8%AD%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8%D8%A7%D8%AA%20%D9%88%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%202016_2021%20Liste%20des%20d%C3%A9put%C3%A9%28e%29s%20-%20D%C3%A9put%C3%A9%28e%29s%202016_2021.csv
     P3p:
-    - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     X-Content-Type-Options:
     - nosniff
@@ -39,12 +38,10 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=198=HPxr0QypMB49Lc2l52WSjRPnHeZyfgy-LLKShPtpqFPTDMYyWH8WQx7lu4UhmcvHD6zmqCmF1A_lyj_bWLsTJPmFW9IdLLRJoI38t-aXK8Ac0nZgVAb75rXsHBas4lrjxRex98TcN23D3P0uHp4VucyLXxK3-XabcvVq2iqbhew;
-      expires=Wed, 26-Aug-2020 17:07:35 GMT; path=/; domain=.google.com; HttpOnly
-    - NID=198=S9ocoa1yOvEpkX-m_4mDvFlHU6miw5x5yzgwgxz44UXyT-yzia7ikcs9kATu1Ov-DCM6P3bTniYw5LzEw9odHOcOXzyUVJrn4LJtA1U3sjFsNr3bOGMLu-xlVSBxdVI0vffeea89s1AcSuyv5HTxCuCETIT_c1ldJeulukDuk9o;
-      expires=Wed, 26-Aug-2020 17:07:35 GMT; path=/; domain=.google.com; HttpOnly
-    - S=apps-spreadsheets=iueSj6PdrCrQL-U2NnDzaPWQ28p8Yy6i; Domain=.docs.google.com;
-      Expires=Tue, 25-Feb-2020 18:07:36 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=198=U6rFCCaDKo1fuTlunGUzY7aAAiNUKDyL3Wij4nC1ZK6NY_lcBVuqJ86P7nHXlfn0HRrRLA7mm00g48PYlSsya9oSjtQ0Kn8RtadJrAmaKCY3XhEtYtzkTDwzYbd8RJKI2V7FiPNMaPiwngeMZJbkRaa_v1jDSWqCBAB55HcGgMA;
+      expires=Thu, 27-Aug-2020 07:03:26 GMT; path=/; domain=.google.com; HttpOnly
+    - S=apps-spreadsheets=Tfe6YbEWTxQJT3dIO3Jszl4lh8AcFAU5; Domain=.docs.google.com;
+      Expires=Wed, 26-Feb-2020 08:03:26 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly; SameSite=none
     Alt-Svc:
     - quic=":443"; ma=2592000; v="46,43",h3-Q050=":443"; ma=2592000,h3-Q049=":443";
@@ -55,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 25 Feb 2020 17:07:36 GMT
+recorded_at: Wed, 26 Feb 2020 07:03:26 GMT
