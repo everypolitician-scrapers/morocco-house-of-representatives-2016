@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Tue, 14 Jul 2020 18:18:39 GMT
+    - Wed, 15 Jul 2020 02:36:23 GMT
     Date:
-    - Tue, 14 Jul 2020 18:18:39 GMT
+    - Wed, 15 Jul 2020 02:36:23 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -38,18 +38,18 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=NjcF7hel7NaTyaaneIdkTeYQCJq0bgkG6wjS4SY9isPuwrwESeSNdsWKN7UpQgsG-CNMN_Qz495_MbzOO17vZaFM2FCrplL7vQFxEDsounYhTXM4c8MRViBzgg695_9UAIK8hp0mCA289881Xiz2N4TJqSdFv4EyYhXW5qAOUoc;
-      expires=Wed, 13-Jan-2021 18:18:38 GMT; path=/; domain=.google.com; HttpOnly
-    - S=apps-spreadsheets=JX6Bi9x5HnEudAoy2qNFgBmWOovg7Oqan8eYw_KGioE; Domain=.docs.google.com;
-      Expires=Tue, 14-Jul-2020 19:18:39 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=204=InXvN6AJOykaRO0eNVWXoCaKRprabQrZ4agvBNbRdpmE56UmFbgeO9cOHOh4y2AK7bUiUjfeMXkxrctXW7y-Y75os2kzNwzpiJuKvL5A6zRPfQrPIuG3tGBcBUMQQn3vGXmRSya2T1ITVNkMAnE6sFhFf-00ZA4-s522vnZWgxQ;
+      expires=Thu, 14-Jan-2021 02:36:23 GMT; path=/; domain=.google.com; HttpOnly
+    - S=apps-spreadsheets=1YS8TYbEJB-Fp2KP0XP0eL0rEBGv0cYPd8Vfqim0YYk; Domain=.docs.google.com;
+      Expires=Wed, 15-Jul-2020 03:36:23 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly; SameSite=none
     Alt-Svc:
-    - h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443";
-      ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443";
-      ma=2592000,quic=":443"; ma=2592000; v="46,43"
+    - h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443";
+      ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443";
+      ma=2592000; v="46,43"
     Transfer-Encoding:
     - chunked
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 14 Jul 2020 18:18:39 GMT
+recorded_at: Wed, 15 Jul 2020 02:36:24 GMT
