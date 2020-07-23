@@ -22,9 +22,9 @@ response:
     X-Robots-Tag:
     - noindex, nofollow, nosnippet
     Expires:
-    - Wed, 22 Jul 2020 16:20:24 GMT
+    - Thu, 23 Jul 2020 07:40:49 GMT
     Date:
-    - Wed, 22 Jul 2020 16:20:24 GMT
+    - Thu, 23 Jul 2020 07:40:49 GMT
     Cache-Control:
     - private, max-age=300
     Content-Disposition:
@@ -38,10 +38,10 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=DFekQbU4M52uBBpwKj5_wYVeEk6BKvsHyVTvm2Q_Y3CUirHRlgNLR3i3_VJO6Q3FmidhdgvMusWOV18cvfNQkGgLhtSKrkWzd9F4aiqh71uc3pWlyLIIMbXx1zrcBx3PB9NEbuAnJExTBBFBPCnO4um5mNRA_GtNsgBgmhySTvE;
-      expires=Thu, 21-Jan-2021 16:20:23 GMT; path=/; domain=.google.com; HttpOnly
-    - S=apps-spreadsheets=soWNtIlRJvh3NdzyJHLXhTA6F7yCiPbFUwWqe5R37vQ; Domain=.docs.google.com;
-      Expires=Wed, 22-Jul-2020 17:20:24 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+    - NID=204=RWR5ahgiWPNGDq9te_TQbZthBWGDmDxjEWRSr19d8vLfyBV2YH11XI2_-LciJh-SvPwMRbdD8ZnzP2GmmDI5YPSjKX1cUk_1OkWiy6KhMJTJY90KDFoabj7k5CIvbEe7IgoT_sFk0LgmM3dJ2MY_c5rQNgXmvF79gafbKztrdr0;
+      expires=Fri, 22-Jan-2021 07:40:49 GMT; path=/; domain=.google.com; HttpOnly
+    - S=apps-spreadsheets=pOh46UkjeFaDTcWyBvZM57YQYtLG29QiSAtNtJByJ_I; Domain=.docs.google.com;
+      Expires=Thu, 23-Jul-2020 08:40:49 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
       Secure; HttpOnly; SameSite=none
     Alt-Svc:
     - h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443";
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 22 Jul 2020 16:20:24 GMT
+recorded_at: Thu, 23 Jul 2020 07:40:49 GMT
