@@ -14,21 +14,21 @@ request:
     - Ruby
 response:
   status:
-    code: 200
-    message: OK
+    code: 307
+    message: Temporary Redirect
   headers:
     Content-Type:
-    - text/csv
-    X-Robots-Tag:
-    - noindex, nofollow, nosnippet
-    Expires:
-    - Thu, 06 Aug 2020 12:58:44 GMT
-    Date:
-    - Thu, 06 Aug 2020 12:58:44 GMT
+    - text/html; charset=UTF-8
     Cache-Control:
-    - private, max-age=300
-    Content-Disposition:
-    - attachment; filename="2016_2021Listedesdputes-Dputes2016_2021.csv"; filename*=UTF-8''%20%D9%84%D8%A7%D8%A6%D8%AD%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8%D8%A7%D8%AA%20%D9%88%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%202016_2021%20Liste%20des%20d%C3%A9put%C3%A9%28e%29s%20-%20D%C3%A9put%C3%A9%28e%29s%202016_2021.csv
+    - no-cache, no-store, max-age=0, must-revalidate
+    Pragma:
+    - no-cache
+    Expires:
+    - Mon, 01 Jan 1990 00:00:00 GMT
+    Date:
+    - Fri, 07 Aug 2020 18:52:48 GMT
+    Location:
+    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/nve1ehj3ga6dvgi86fm33hsis4/1596826365000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
     P3p:
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     X-Content-Type-Options:
@@ -38,11 +38,8 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=NPs9CM4hTVExMqUBwWv0SDBSNcVdulFAQ9M5fJsRX7FDf7XT2QAz2ywev36tmPgicYs4po_GiSMpdZ47QS-WYFNgrhLrAa3aY0XKrVdfqTbmvNbtgmSdrywQwtmd89rViTY4dzyiM-XfjJQxkPK6O3yBkDpmeBZ8h_4tZyPuxQc;
-      expires=Fri, 05-Feb-2021 12:58:43 GMT; path=/; domain=.google.com; HttpOnly
-    - S=apps-spreadsheets=her46oOOuLaeeWLf0mLuRspWA4uRJIpzcBawiLq5LME; Domain=.docs.google.com;
-      Expires=Thu, 06-Aug-2020 13:58:44 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
-      Secure; HttpOnly; SameSite=none
+    - NID=204=AWYdx97GYcTiaaQ-srldl47Kz4zbYIxkddFy6Ax1CBYW0rcB5ELe5Y0Rw9HmvY8Yy5MApYPorvym0BfneJFpD0M9IXCAUprbxRcKFVjGh0KZxOqyJAcCxlIMF8lg4BmkVs7_OMpXCtsOJIBIR7XKqUMtMhZjk9pg_alT57hrnI4;
+      expires=Sat, 06-Feb-2021 18:52:48 GMT; path=/; domain=.google.com; HttpOnly
     Alt-Svc:
     - h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443";
       ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443";
@@ -52,4 +49,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 06 Aug 2020 12:58:44 GMT
+recorded_at: Fri, 07 Aug 2020 18:52:48 GMT
