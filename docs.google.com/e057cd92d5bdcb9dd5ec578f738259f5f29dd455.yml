@@ -26,9 +26,9 @@ response:
     Expires:
     - Mon, 01 Jan 1990 00:00:00 GMT
     Date:
-    - Fri, 14 Aug 2020 11:18:00 GMT
+    - Sat, 15 Aug 2020 02:37:58 GMT
     Location:
-    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/he3bfiq6nd9v1l03ciitot7nl0/1597403880000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
+    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/emrfm9ri7l9idk9c9sbp1e54n8/1597459075000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
     P3p:
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     X-Content-Type-Options:
@@ -38,15 +38,15 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=wd-cAKLV_y8u1wb2dRhOFpmz2TXZuutu9cfDRCDCfOC9ZqPghK1YjQB5vIUmDfeHKdtI-rzkZytvefqSJIAWSt7wXSQpl3sVm5aSAME-4StEriiofhuIRDdqfiTc2t9MRdc8y357eK39eE_4L-OL8XTGve2xKpv34TsNQ-d7ot8;
-      expires=Sat, 13-Feb-2021 11:18:00 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=204=VFA_KU0B46ecUQuLfMdRefBlLKgYqvVFHSRneYBFdlWcMtHpsikHZg8IhWxtZMvumPnq_QG9mRu6IBNV1fsLf47nwlNwN_jz3ZE-JuxJFm50P1QzHQIZcjTXmsk_BPzt_Ab2PSRLowiH8DutZzo9NE19SZy5d-iYDulAeojIB70;
+      expires=Sun, 14-Feb-2021 02:37:57 GMT; path=/; domain=.google.com; HttpOnly
     Alt-Svc:
-    - h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443";
-      ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443";
-      ma=2592000,quic=":443"; ma=2592000; v="46,43"
+    - h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443";
+      ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443";
+      ma=2592000; v="46,43"
     Transfer-Encoding:
     - chunked
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 14 Aug 2020 11:18:00 GMT
+recorded_at: Sat, 15 Aug 2020 02:37:58 GMT
