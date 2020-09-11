@@ -26,9 +26,9 @@ response:
     Expires:
     - Mon, 01 Jan 1990 00:00:00 GMT
     Date:
-    - Thu, 10 Sep 2020 19:12:56 GMT
+    - Fri, 11 Sep 2020 06:03:40 GMT
     Location:
-    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/ujoo78ssnui42cj9okic5l7hec/1599765175000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
+    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/bmca2qcoulgb1id9utp6ea14oc/1599804220000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
     P3p:
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     X-Content-Type-Options:
@@ -38,8 +38,8 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=j8iJAEMtPkOVAiTyOE6oCTzQqS3AbF-SmdCC0RdAYzB3VN0vroVtgtPmnEQuQvxo6bvHhfqpqy9EMY37YAVFWF297XiBPrkyFSHzWy_HwH6iV7R4SEVJOCJlwk-KaF0-li8Vt2CkyS2g5xtu3loyRFNDH6iIc1L9zDeOio49m-I;
-      expires=Fri, 12-Mar-2021 19:12:56 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=204=zbq_LGpvQ1BmJobynKvd9r6tDhRkibpemdB0eE1qAZiqrm1uD2sYdSZDFEbfh6zu7u3m6X7QGR5__zQciyXFAto06G_E5ROtTksT3ErYL204dOQIr8AipKPtd1qQ3yRYcBlxtvk8u-8P4Mr21nHY1eTY9fDrBdmEmxVDQLHzM7M;
+      expires=Sat, 13-Mar-2021 06:03:40 GMT; path=/; domain=.google.com; HttpOnly
     Alt-Svc:
     - h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443";
       ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443";
@@ -49,4 +49,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 10 Sep 2020 19:12:57 GMT
+recorded_at: Fri, 11 Sep 2020 06:03:40 GMT
