@@ -26,11 +26,15 @@ response:
     Expires:
     - Mon, 01 Jan 1990 00:00:00 GMT
     Date:
-    - Wed, 14 Oct 2020 12:03:20 GMT
+    - Thu, 15 Oct 2020 02:50:58 GMT
     Location:
-    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/j1rfff1ue348ii2k1a532j3d04/1602677000000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
+    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/ev86ul0naooih51an4p2je19h4/1602730255000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
     P3p:
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
+    Content-Security-Policy:
+    - 'base-uri ''self'';object-src ''self'';report-uri https://docs.google.com/spreadsheets/cspreport;script-src
+      ''report-sample'' ''nonce-H7hahJ/jlhIAVGahJSgKlA'' ''unsafe-inline'' ''strict-dynamic''
+      https: http: ''unsafe-eval'';worker-src ''self'''
     X-Content-Type-Options:
     - nosniff
     X-Xss-Protection:
@@ -38,8 +42,8 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=IwiF_3xrXGP_CWRHpZ0Ub_QkFKTkohrIuNSbehDx1tJQWruvPq9IzRy0Qp1eOrFAYem6nR8baswyoLISIIXPy0LbjKBlwEVhmX5k8QCHeH9YIye9BDgLgcQmt3_WB5wo1xoj7Ai3kv2iy-hUvj7elTyStaF6u9RNIwDPr6KvPUg;
-      expires=Thu, 15-Apr-2021 12:03:20 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=204=pRXXZV9c682rCkjRT8GFGcR2AAQmHqrpMtXv516bP0mFbDZtV6MpFwEAVkgBffcw_DOcXWHknFf943LnHNXtVj9SODoNNKAAF-bG0FXgkGI2X78Tekt9JXVZ2s4KcqTPGRex3gQ02_D5HuEWnkEkzQdk8ENKdNb_Md9lh0Ybaho;
+      expires=Fri, 16-Apr-2021 02:50:58 GMT; path=/; domain=.google.com; HttpOnly
     Alt-Svc:
     - h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T051=":443";
       ma=2592000,h3-T050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443";
@@ -49,4 +53,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 14 Oct 2020 12:03:20 GMT
+recorded_at: Thu, 15 Oct 2020 02:50:58 GMT
