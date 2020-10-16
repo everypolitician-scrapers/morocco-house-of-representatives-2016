@@ -26,14 +26,14 @@ response:
     Expires:
     - Mon, 01 Jan 1990 00:00:00 GMT
     Date:
-    - Thu, 15 Oct 2020 02:50:58 GMT
+    - Fri, 16 Oct 2020 06:33:04 GMT
     Location:
-    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/ev86ul0naooih51an4p2je19h4/1602730255000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
+    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/100qdkcbp5sqgmg45g4d9kepss/1602829980000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
     P3p:
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     Content-Security-Policy:
     - 'base-uri ''self'';object-src ''self'';report-uri https://docs.google.com/spreadsheets/cspreport;script-src
-      ''report-sample'' ''nonce-H7hahJ/jlhIAVGahJSgKlA'' ''unsafe-inline'' ''strict-dynamic''
+      ''report-sample'' ''nonce-Nmb7hA1sU2eu3z8lOAoK4g'' ''unsafe-inline'' ''strict-dynamic''
       https: http: ''unsafe-eval'';worker-src ''self'''
     X-Content-Type-Options:
     - nosniff
@@ -42,8 +42,11 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=pRXXZV9c682rCkjRT8GFGcR2AAQmHqrpMtXv516bP0mFbDZtV6MpFwEAVkgBffcw_DOcXWHknFf943LnHNXtVj9SODoNNKAAF-bG0FXgkGI2X78Tekt9JXVZ2s4KcqTPGRex3gQ02_D5HuEWnkEkzQdk8ENKdNb_Md9lh0Ybaho;
-      expires=Fri, 16-Apr-2021 02:50:58 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=204=VHTQILxteJPRGoHLRfbwIaLuHTIaM6Fo-0w4UywpLUaHpswv78NTtrlR2UALi9tzImi_rEo2dhbpO7GXgge47dV3z_FZ44X3IdKOMKZFKF7B0Ar5sosozmgZ65742o7f4borqBnS62MFmxGkuiUGAtUUhU4xO6YuF6UgvgnF1D8;
+      expires=Sat, 17-Apr-2021 06:33:04 GMT; path=/; domain=.google.com; HttpOnly
+    - S=apps-spreadsheets=td7ZUhomql1-OgYB6KL9Y7kPGdZZYwUREd80iEo9_AQ; Domain=.docs.google.com;
+      Expires=Fri, 16-Oct-2020 07:33:04 GMT; Path=/spreadsheets/d/e/2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-;
+      Secure; HttpOnly; SameSite=none
     Alt-Svc:
     - h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T051=":443";
       ma=2592000,h3-T050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443";
@@ -53,4 +56,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 15 Oct 2020 02:50:58 GMT
+recorded_at: Fri, 16 Oct 2020 06:33:04 GMT
