@@ -32,13 +32,13 @@ response:
     Expires:
     - Mon, 01 Jan 1990 00:00:00 GMT
     Date:
-    - Fri, 20 Nov 2020 23:49:50 GMT
+    - Sun, 22 Nov 2020 19:28:48 GMT
     Transfer-Encoding:
     - chunked
     Strict-Transport-Security:
     - max-age=31536000; includeSubDomains
     Content-Security-Policy:
-    - script-src 'report-sample' 'nonce-tSkSiPLJ7rutq+y7LM32eg' 'unsafe-inline' 'unsafe-eval';object-src
+    - script-src 'report-sample' 'nonce-2qjQTSDOLxCUDn2UfoLbEg' 'unsafe-inline' 'unsafe-eval';object-src
       'none';base-uri 'self';report-uri /cspreport
     X-Content-Type-Options:
     - nosniff
@@ -47,12 +47,12 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - __Host-GAPS=1:eYx-H7ot9k_yUiFwKrK7eF64o_hzxg:mAdTIzSUDQdToywb;Path=/;Expires=Sun,
-      20-Nov-2022 23:49:50 GMT;Secure;HttpOnly;Priority=HIGH
+    - __Host-GAPS=1:7qHloNy0ogkTxiurncBHlzWQqf0nXw:Bf8zW4XLK99aLeJG;Path=/;Expires=Tue,
+      22-Nov-2022 19:28:48 GMT;Secure;HttpOnly;Priority=HIGH
     Alt-Svc:
     - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
       ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 20 Nov 2020 23:49:50 GMT
+recorded_at: Sun, 22 Nov 2020 19:28:48 GMT
