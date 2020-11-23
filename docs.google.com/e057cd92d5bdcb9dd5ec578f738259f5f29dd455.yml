@@ -25,12 +25,12 @@ response:
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     Content-Security-Policy:
     - 'base-uri ''self'';object-src ''self'';report-uri https://docs.google.com/spreadsheets/cspreport;script-src
-      ''report-sample'' ''nonce-QdhP7Op62Sh593jpsXT47A'' ''unsafe-inline'' ''strict-dynamic''
+      ''report-sample'' ''nonce-IgCNweMz58XYshmAle/h0w'' ''unsafe-inline'' ''strict-dynamic''
       https: http: ''unsafe-eval'';worker-src ''self'''
     Date:
-    - Sun, 22 Nov 2020 19:28:47 GMT
+    - Mon, 23 Nov 2020 22:11:29 GMT
     Expires:
-    - Sun, 22 Nov 2020 19:28:47 GMT
+    - Mon, 23 Nov 2020 22:11:29 GMT
     Cache-Control:
     - private, max-age=0
     X-Content-Type-Options:
@@ -40,8 +40,8 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=204=oOCkq1D9aQEa9iI-WP0jFHeXwIx_Uq_S9TX58THhrjgIjV9HMa_FuGJ6qs0ua5kgQT14qjPYhreev1_W0tMm7zooAJNTcvCOYtFcMhCHNcqSGTtkd7_fU_6uvOIbelPJt6aO3snwgrMu7u-RQizsF_xWpi3ZnoEnXF2ofiPXZ3M;
-      expires=Mon, 24-May-2021 19:28:47 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=204=CMHS1TVi98RCnYd11xOwrGYUdQHIABbYpSeh6ycRbPpqoXLuXSEkPZOw_OUD-xY1JqF2fwL7AMxns9VLhgUeJCzj98cMi99Xz6V25XSyE2wFCWVpJyVYGtHXqQejUBoEKwheL9HQA-GR2Wqj59sxf9Wx1K42w_9wtBp-gYqX3_I;
+      expires=Tue, 25-May-2021 22:11:28 GMT; path=/; domain=.google.com; HttpOnly
     Alt-Svc:
     - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
       ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
@@ -50,4 +50,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 22 Nov 2020 19:28:47 GMT
+recorded_at: Mon, 23 Nov 2020 22:11:29 GMT
