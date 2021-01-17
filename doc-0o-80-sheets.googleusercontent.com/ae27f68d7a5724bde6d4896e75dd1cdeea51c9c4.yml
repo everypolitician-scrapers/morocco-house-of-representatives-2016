@@ -1,0 +1,57 @@
+---
+request:
+  method: get
+  uri: https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/7lrhsjca16eq64kgrlg0iphmmo/1610912220000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - "*/*"
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Content-Type:
+    - text/csv
+    X-Frame-Options:
+    - ALLOW-FROM https://docs.google.com
+    X-Robots-Tag:
+    - noindex, nofollow, nosnippet
+    Expires:
+    - Sun, 17 Jan 2021 19:37:01 GMT
+    Date:
+    - Sun, 17 Jan 2021 19:37:01 GMT
+    Cache-Control:
+    - private, max-age=300
+    Content-Disposition:
+    - attachment; filename="2016_2021Listedesdputes-Dputes2016_2021.csv"; filename*=UTF-8''%20%D9%84%D8%A7%D8%A6%D8%AD%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8%D8%A7%D8%AA%20%D9%88%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%202016_2021%20Liste%20des%20d%C3%A9put%C3%A9%28e%29s%20-%20D%C3%A9put%C3%A9%28e%29s%202016_2021.csv
+    Access-Control-Allow-Origin:
+    - "*"
+    Access-Control-Expose-Headers:
+    - Cache-Control,Content-Disposition,Content-Encoding,Content-Length,Content-Type,Date,Expires,Server,Transfer-Encoding
+    Content-Security-Policy:
+    - 'base-uri ''self'';object-src ''self'';report-uri https://docs.google.com/spreadsheets/cspreport;script-src
+      ''report-sample'' ''nonce-HamVp6A3sbfXvnJIoDEl4g'' ''unsafe-inline'' ''strict-dynamic''
+      https: http: ''unsafe-eval'';worker-src ''self'''
+    - frame-ancestors 'self' https://docs.google.com
+    X-Content-Type-Options:
+    - nosniff
+    X-Xss-Protection:
+    - 1; mode=block
+    Server:
+    - GSE
+    Alt-Svc:
+    - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+      ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+    Transfer-Encoding:
+    - chunked
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Sun, 17 Jan 2021 19:37:01 GMT
