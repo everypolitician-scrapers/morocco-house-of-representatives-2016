@@ -26,14 +26,14 @@ response:
     Expires:
     - Mon, 01 Jan 1990 00:00:00 GMT
     Date:
-    - Sun, 14 Feb 2021 19:04:14 GMT
+    - Mon, 15 Feb 2021 17:21:59 GMT
     Location:
-    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/lop8ojtqasel57jrufope1edg4/1613329450000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
+    - https://doc-0o-80-sheets.googleusercontent.com/pub/l5l039s6ni5uumqbsj9o11lmdc/im763onk5p9tu9b41sasrh2l7s/1613409715000/108841977902176100120/*/e@2PACX-1vS6XNnW4aIo9zjc_jNzufLziYsRsMF1Kx-YMStKVmBOOakJ_bP7InqVHbDK55_W2eRHhUx-jWO5Hmz-?output=csv
     P3p:
     - CP="This is not a P3P policy! See g.co/p3phelp for more info."
     Content-Security-Policy:
     - 'base-uri ''self'';object-src ''self'';report-uri https://docs.google.com/spreadsheets/cspreport;script-src
-      ''report-sample'' ''nonce-81sqtfnSxzcv4ZCedwcQIw'' ''unsafe-inline'' ''strict-dynamic''
+      ''report-sample'' ''nonce-aySBun+UKkr8QY3h5XZLTA'' ''unsafe-inline'' ''strict-dynamic''
       https: http: ''unsafe-eval'';worker-src ''self'''
     X-Content-Type-Options:
     - nosniff
@@ -42,8 +42,8 @@ response:
     Server:
     - GSE
     Set-Cookie:
-    - NID=209=BfbPaNAay9tl57R0TcczyZoB0NVvm2iKgoLVhKJ79DanLXjxcae82p6yFQpUQ_a5PbQdIYNedbJ6dQG_qBT-XdkrzSc79hILQJf00zNyhdGPUeYawM6WnzX3L8UJhhOwPH0UademH9gQTGfoTcy91BXjmC0LUiFRhp5Ck3CGnB0;
-      expires=Mon, 16-Aug-2021 19:04:13 GMT; path=/; domain=.google.com; HttpOnly
+    - NID=209=pZe7IdFG1W7BCZFBDRKxDmzvrEFLQt0lebBHFp7N4aXy4u1_Uhoiiy0K-t5aYv4h-MLFaMrMkA0ChcriLTJrQhSfkXUdXpU4HOPazOi7BCnq6RiGqTSnChz_XolG5xolGO1TkyRVS1Dp2FWCdvFHEG_lWCLAdICR0wIeTxQ3rWk;
+      expires=Tue, 17-Aug-2021 17:21:58 GMT; path=/; domain=.google.com; HttpOnly
     Alt-Svc:
     - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
       ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 14 Feb 2021 19:04:14 GMT
+recorded_at: Mon, 15 Feb 2021 17:21:59 GMT
